@@ -1,12 +1,25 @@
-# React + Vite
+# 🚀 NameSpark – AI-Powered Team Name Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NameSpark is a stylish, AI-powered web app that helps you generate creative, themed, and catchy team names in seconds. Whether you're forming a tech squad, gaming clan, or sports team, NameSpark gives you the perfect name tailored to your vibe.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Features
 
-## Expanding the ESLint configuration
+- 🎨 Choose a **style** and **theme**
+- 📝 Add custom **keywords**
+- 👥 Specify **team size**
+- 💡 AI-generated names with emoji flair
+- ❤️ Save favorites to local storage
+- 🔄 Regenerate names anytime
+- 🔍 Filter results in real-time
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** React, TailwindCSS, Heroicons, Framer Motion
+- **Backend:** Node.js, Express.js
+- **AI Integration:** Google Generative AI (`@google/generative-ai`)
+- **Others:** dotenv, Vite
+
